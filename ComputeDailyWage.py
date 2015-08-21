@@ -23,4 +23,8 @@ print 'Total: ', computepay ( wage , mileage , expenses , gas )
 hours = raw_input('Enter Hours: ')
 hourlyWage = computepay ( wage , mileage , expenses , gas ) / float(hours)
 
+<<<<<<< HEAD
 print 'Hourly Wage: ', hourlyWage
+=======
+print 'Hourly Wage: ', hourlyWage
+
